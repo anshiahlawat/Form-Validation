@@ -1,0 +1,52 @@
+/* hide show and toggle */
+
+/* .status{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+    background: green;
+    color: #fff;
+}
+.h1{
+    justify-content: center;
+    display: flex;
+} */
+
+
+/* Form validation */
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-image:url(images/bg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 5vh
+    
+}
+.container{
+    display: inline-block;   
+    border: 2px  solid black; 
+
+}
+input{
+    margin-left: 20px;
+    height: 20px;
+    
+}
+.button{
+    font-size:30px;
+    background-color: rgb(190, 222, 231);
+    
+}
+
+.error{
+    color: rgb(255, 0, 0);
+    display: inline-block;
+    padding: 0 10px;
+}
