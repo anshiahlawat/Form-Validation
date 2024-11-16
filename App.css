@@ -1,24 +1,3 @@
-/* hide show and toggle */
-
-/* .status{
-    width: 300px;
-    height: 300px;
-    margin: 0 auto 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 5%;
-    background: green;
-    color: #fff;
-}
-.h1{
-    justify-content: center;
-    display: flex;
-} */
-
-
-/* Form validation */
-
 body{
     display: flex;
     justify-content: center;
